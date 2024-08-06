@@ -51,12 +51,15 @@ To get started with Data Finance, follow these steps:
 - **React Icons**: A library for using popular icons in React. 🖼️
 - **React Typed**: For adding typewriting effects to your text. ⌨️
 
+## Live Demo
+
+Check out the live demo [here](https://data-finance-2193.netlify.app/)! 🚀
+
 ## 📧 Contact
 
 For any questions or feedback, feel free to reach out:
 
 - **LinkedIn**: [Anas Hany](https://www.linkedin.com/in/anashany219/)
 - **GitHub**: [anashany2193](https://github.com/AnasHany2193)
-
 
 Happy analyzing! 🌟
